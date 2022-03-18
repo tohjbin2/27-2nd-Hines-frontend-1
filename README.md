@@ -8,32 +8,36 @@
 
 - 2021.12.13 ~ 2021.12.24
 
+<br>
 
 ## <b>목표</b>
 
 - 그동안 학습했던 지식들을 2주 간의 팀 프로젝트에 활용
 - 스타일컴포넌트를 이용한 초기 세팅부터 전부 실제 사용할 수 있는 서비스 수준으로 기획 및 배포까지 구현
 
----
+<br>
+
 
 # 구현 영상
 
 https://www.youtube.com/watch?v=Z4Hw1AQc_og
 
+<br>
 
----
 
 # SKillS
 - Front-End: React.js, Styled Component, React Router
 - Back-End: Python, Django web framework, MySQL
 - Common: AWS
-- 
----
+
+<br>
 
 
 ### 소통 툴
 - Git, Github, Slack, Trello, Notion
-- 
+
+<br>
+
 ### 구현기능
 - 상단바
 - 소셜로그인
@@ -44,20 +48,7 @@ https://www.youtube.com/watch?v=Z4Hw1AQc_og
 
 #### 상단바 (header/nav)
 - 스크롤시 카테고리부분이 고정
-#### 로그인
-- 아이디, 패스워드가 일치해야 로그인 성공
-- 로그인 성공시 sessionStorage에 토큰 발행
-- 존재하지 않는 아이디로 로그인 시도시, 경고창 반환
-- 존재하지 않는 패스워드로 로그인 시도시, 경고창 반환
-#### 제품 리스트
-- 상세 리스트가 메인 화면이기 때문에 quary로 해당 부분을 관리
-- 대분류, 중분류
-- 대분류가 클릭 됐을 때 중분류 전체보기
-- 상품 부분 클릭 시 상세 페이지로 이동
-#### 제품 상세 페이지
-- useParams를 사용하여 백엔드로 부터 데이터를 받아 제품 표시
-- 상품 개수 입력과 버튼으로 조절 가능
-- 통큰 여부를 판단하여 구매버튼 클릭시 백엔드와 통신하여 장바구니로 담기
+
 #### 장바구니
 - 수량 입력
   - 버튼으로 1단위 변화, 수량 직접 입력 가능
@@ -68,9 +59,8 @@ https://www.youtube.com/watch?v=Z4Hw1AQc_og
 - 총금액은 체크된 상품만 계산
 - 냉장, 상온 2개로 상품을 분류하여 소비자가 보기 편리하게 구성
 - 분류별 토글 버튼을 만들어 해당 리스트 펼치거나 접을 수 있게 함
-#### 구매 내역
-- 최신순으로 주문서 보여줌
 
+<br>
 
 # Members
 
@@ -86,7 +76,7 @@ https://www.youtube.com/watch?v=Z4Hw1AQc_og
 장도원 
 제갈창민
 
----
+<br>
 
 # Reference
 

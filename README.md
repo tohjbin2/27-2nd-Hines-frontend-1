@@ -1,8 +1,11 @@
 
-# Team Hines
----
+# Hines : House In Decades
 
-# 프로젝트 개요
+- '오늘의집' 클론 프로젝트를 바탕으로 제작되었습니다. 
+하인즈는 몇 십년 후의 미래를 배경으로 지구가 아닌 다른 행성에서 사는 인류를 위한 인테리어 및 전반적인 물품 판매를 컨셉으로 한 커머셜 사이트입니다.
+몇 십년 후의 집을 컨셉으로 한 만큼 전체 명칭을 House In Decades으로 지었으며, 여기에서 가져온 약자인 Hines를 프로젝트의 이름으로 결정했습니다.
+
+<br>
 
 ## 프로젝트 기간
 
@@ -18,14 +21,14 @@
 <br>
 
 
-# 구현 영상
+## 구현 영상
 
 https://www.youtube.com/watch?v=Z4Hw1AQc_og
 
 <br>
 
 
-# SKillS
+## SKillS
 - Front-End: React.js, Styled Component, React Router
 - Back-End: Python, Django web framework, MySQL
 - Common: AWS
@@ -33,12 +36,12 @@ https://www.youtube.com/watch?v=Z4Hw1AQc_og
 <br>
 
 
-### 소통 툴
+## 소통 툴
 - Git, Github, Slack, Trello, Notion
 
 <br>
 
-### 구현기능
+## 구현기능
 - 상단바
 - 소셜로그인
 - 제품 리스트
@@ -62,14 +65,12 @@ https://www.youtube.com/watch?v=Z4Hw1AQc_og
 
 <br>
 
-# Members
+## Members
 
 [프론트엔드] 
 이지현 
 홍정빈 
 황주영
-
-<br/>
 
 [백엔드] 
 이유진
@@ -78,7 +79,7 @@ https://www.youtube.com/watch?v=Z4Hw1AQc_og
 
 <br>
 
-# Reference
+## Reference
 
 - 이 프로젝트는 오늘의집 사이트를 참조하여 학습목적으로 만들었습니다.
 - 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
